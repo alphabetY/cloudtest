@@ -1,0 +1,4 @@
+me/_0o0/producer/service/OutputMessageService.java
+ me._0o0.producer.service.OutputMessageService
+me/_0o0/producer/ProducerApplication.java
+ me._0o0.producer.ProducerApplication
